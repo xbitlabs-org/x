@@ -1,0 +1,227 @@
+*{
+  margin: 0;
+  font-family: arial;
+}
+#navbar{
+  background-color: #F6FDA4
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: white;
+  font-size: 20px;
+}
+#navbar ul{
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  padding: 20px;
+}
+#img1{
+  margin-left: 25vw;
+} 
+#about-us h2{
+  font-weight: normal;
+  text-align: center;
+  margin-top: 20px;
+}
+#about-us p{
+  text-align: center;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  padding: 20px;
+  line-height: 2;
+  margin-bottom: 100px;
+}
+#about-us{
+  border-bottom: 2px solid #2F0589;
+}
+#services h2{
+  padding-top: 100px;
+}
+#img2{
+  padding-top: 70px;
+}
+#services h2{
+  text-align: center; 
+}
+#web-development-img{
+ float: left;
+}
+#services2{
+  display: flex;
+}
+#web-development{
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+  line-height: 2;
+}
+#web-development h3{
+  text-align: center;
+}
+#web-development p{
+  margin-top: 20px;
+}
+#services3{
+  display: flex;
+  margin-top: 100px;
+}
+#it-services{
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+  line-height: 2;
+}
+#it-services h3{
+  text-align: center;
+}
+#services4{
+  display: flex;
+  margin-top: 100px;
+}
+#data-science{
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+  line-height: 2;
+}
+#data-science h3{
+  text-align: center;
+}
+#services5{
+  display: flex;
+  margin-top: 100px;
+}
+#ux-design h3{
+  text-align: center;
+}
+#ux-design{
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 100px;
+  line-height: 2;
+}
+#line{
+  border-bottom: 2px solid #2F0589;
+}
+#button{
+  width: 200px;
+  padding: 10px;
+  background-color: #F6FDA4;
+  color: black;
+  border: none;
+  border-radius: 20px;
+  margin-top: 40px;
+  margin-left: 170px;
+}
+#line{
+  margin-top: 100px;
+}
+#courses h2{
+  padding: 50px;
+  text-align: center;
+  margin-top: 50px;
+}
+#courses-main{
+  display: flex;
+  margin-bottom: 100px;
+}
+#courses-main img{
+  width: 60%;
+ 
+}
+#web-dev-course, #ux-design-course, #mobile-app-course, #data-science-course{
+  margin: 20px;
+  border: 3px solid white;
+  background-color: #F6FDA4;
+  border: 2px solid #2F0589;
+  border-radius: 10px;
+}
+#web-dev-course img{
+margin-left: 4vw;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+#web-dev-course li{
+  line-height: 2;
+}
+#web-dev-course h3{
+  padding: 20px;
+}
+#ux-design-course img{
+  margin-left: 4vw;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+#ux-design-course li{
+  line-height: 2;
+}
+#ux-design-course h3{
+  padding: 20px;
+}
+
+#mobile-app-course img{
+  margin-left: 4vw;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+#mobile-app-course li{
+  line-height: 2;
+}
+#mobile-app-course h3{
+  padding: 20px;
+}
+#data-science-course img{
+  margin-left: 4vw;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+#data-science-course li{
+  line-height: 2;
+}
+#data-science-course h3{
+  padding: 20px;
+}
+
+#contact-us{
+  text-align: center;
+}
+#contact-us h1{
+  font-size: 50px;
+  padding: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+#contact-us h2{
+  margin-bottom: 20px;
+  font-size: 40px;
+}
+.contact{
+  display: block;
+  margin: auto;
+}
+#name, #email {
+  margin-bottom: 20px;
+}
+#message{
+  width: 500px;
+  height: 200px;
+color: black;
+  margin-bottom: 20px;
+}
+#follow{
+  padding: 50px;
+  font-size: 40px;
+}
+#socials{
+  font-size: 30px;
+}
+#button2{
+  background-color: #F6FDA4;
+  border-radius: 10px;
+  padding: 20px;
+  width: 10vw; 
+}
